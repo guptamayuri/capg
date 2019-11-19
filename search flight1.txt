@@ -1,0 +1,21 @@
+<table class="table">
+<tr>
+<th>Flight Name</th>
+<th>flight no.</th>
+<th>dep</th>
+<th>arr</th>
+<th>journey time</th>
+<th>price</th>
+</tr>
+<tr >
+<td>xgfh</td>
+<td>uo</td>
+<td>uhoi</td>
+<td>iup</td>
+<td>jyrs</td>
+<td>trsj</td>
+<td>
+  <button (click)="book" class="btn btn-info">Book</button>
+</td>
+</tr>
+</table>
